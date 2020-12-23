@@ -1,3 +1,4 @@
 ####INSTALL
-cd $path
+git clone https://github.com/emin100/pgAgent-client.git
+cd pgAgent-client
 ./manage.sh -i
