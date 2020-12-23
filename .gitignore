@@ -1,0 +1,8 @@
+
+.idea/
+venv/
+config.cfg
+logs/
+*.pyc
+*.lock
+pass

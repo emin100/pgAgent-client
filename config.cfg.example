@@ -1,0 +1,18 @@
+[DB]
+db_user = None
+db_pass = None
+db_name = None
+db_host = None
+db_port = 5432
+db_timeout = 10
+
+[Logger]
+file = logs/agent.log
+level = ERROR
+
+[Mail]
+send_mail = false
+smtp_host = test.com.tr
+smtp_user = cron@test.com.tr
+smtp_password =
+receiver = ['monitor@test.com.tr']
